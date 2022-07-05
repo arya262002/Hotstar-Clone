@@ -3,31 +3,31 @@ let movies=[
 
     name:"falcon and winter soilder",
     des:"The Falcon and The Winter Soldier, billed at the end of its final episode as Captain America and the Winter Soldier, is a web TV series, set within the Marvel Cinematic Universe, centering on Falcon and the Winter Soldier.",
-    image:"images/slider 2.png"
+    image:"images/slider 2.PNG"
 },
 {
 
     name:"Loki",
     des:"The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of ",
-    image:"images/slider 1.png"
+    image:"images/slider 1.PNG"
 },
 {
 
     name:"wanda vision",
     des:"WandaVision on Disney+ Hotstar Premium is TV’s latest diversion from the pandemic — and its best metaphor",
-    image:"images/slider 3.png"
+    image:"images/slider 3.PNG"
 },
 {
 
     name:"raya and the last dragon",
     des:"Raya, a fallen princess, must track down the legendary last dragon to stop the evil forces that have returned and threaten her world",
-    image:"images/slider 4.png"
+    image:"images/slider 4.PNG"
 },
 {
 
     name:"Luca",
     des:"The movie is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides.",
-    image:"images/slider 5.png"
+    image:"images/slider 5.PNG"
 },
 
 ]
